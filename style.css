@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+
+.banner {
+    color: rgb(231, 216, 9);
+    font-size: 150px;
+    margin-top: 70px;
+}
+
+.button_1 {
+    margin: 5px;
+    border: 1px solid #ff9800;
+    color: #ff9800;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.button_1:hover {
+    color: white;
+    background-color: #ff9800;
+}
+.button_2 {
+    margin: 5px;
+    border: 1px solid #e7e7e7;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+.button_2:hover {
+    color: #e7e7e7;
+    background-color: black;
+}
+
+.input_field {
+    border-radius: 4px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 7vh;
+}
+
+.navbar {
+    height: 80px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.result {
+    margin: auto;
+    width: 50%;
+}
+
+.history {
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+}
+
